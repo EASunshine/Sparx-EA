@@ -4375,7 +4375,7 @@ AA==</Image>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Indepotent Receiver" metatype="Indepotent Receiver" notes="" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+					<Stereotype name="Idempotent Receiver" metatype="Idempotent Receiver" notes="" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<AppliesTo>
 							<Apply type="Component">
 								<Property name="isIndirectlyInstantiated" value="true"/>
@@ -12330,7 +12330,7 @@ RisCQAAADAAAAAAAAAAOAAAAFAAAAAAAAAAQAAAAFAAAAA==</Column></DataRow></DataSet></R
 							<Tag name="EAI Messaging Endpoints::Competing Consumers(UML::Component)" type="int" description="" unit="" values="" default="Competing Consumers"/>
 							<Tag name="EAI Messaging Endpoints::Durable Subscriber(UML::Component)" type="int" description="" unit="" values="" default="Durable Subscriber"/>
 							<Tag name="EAI Messaging Endpoints::Event-Driven Consumer(UML::Component)" type="int" description="" unit="" values="" default="Event-Driven Consumer"/>
-							<Tag name="EAI Messaging Endpoints::Indepotent Receiver(UML::Component)" type="int" description="" unit="" values="" default="Indepotent Receiver"/>
+							<Tag name="EAI Messaging Endpoints::Idempotent Receiver(UML::Component)" type="int" description="" unit="" values="" default="Idempotent Receiver"/>
 							<Tag name="EAI Messaging Endpoints::Message Dispatcher(UML::Component)" type="int" description="" unit="" values="" default="Message Dispatcher"/>
 							<Tag name="EAI Messaging Endpoints::Messaging Gateway(UML::Component)" type="int" description="" unit="" values="" default="Messaging Gateway"/>
 							<Tag name="EAI Messaging Endpoints::Messaging Mapper(UML::Component)" type="int" description="" unit="" values="" default="Messaging Mapper"/>
