@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<MDG.Technology version="1.0"><Documentation id="JSLib" name="JavaScriptLib" version="V1.08" notes="Java Script library " supportURI="paul.henzell002@msd.govt.nz"/><Scripts><Script name="JavaScript-Restore Baselines" type="normal" language="JavaScript" guid="{2C598093-9E99-40f6-9765-BDAC70F7AD1C}"><Content xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">IQBJAE4AQwAgAEwAbwBjAGEAbAAgAEoAYQB2AGEAUwBjAHIAaQBwAHQATABpAGIALgBKAGEA
+<MDG.Technology version="1.0"><Documentation id="JSLib" name="JavaScriptLib" version="V1.08" notes="Java Script library " supportURI=""/><Scripts><Script name="JavaScript-Restore Baselines" type="normal" language="JavaScript" guid="{2C598093-9E99-40f6-9765-BDAC70F7AD1C}"><Content xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">IQBJAE4AQwAgAEwAbwBjAGEAbAAgAEoAYQB2AGEAUwBjAHIAaQBwAHQATABpAGIALgBKAGEA
 dgBhAFMAYwByAGkAcAB0AC0ARQBBAEMAbwBuAHMAdABhAG4AdABzAA0ACgANAAoALwAvACAA
 VABoAGUAIABQAHIAbwBqAGUAYwB0ACAAaQBuAHQAZQByAGYAYQBjAGUAIABpAHMAIAB3AGgA
 YQB0ACAAaQBzACAAcgBlAHEAdQBpAHIAZQBkACAAdABvACAAdwBvAHIAawAgAHcAaQB0AGgA
